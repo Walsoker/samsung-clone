@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.bi{
+    cursor: pointer;
+    transition: ease 0.5s;
+}
+.bi:hover{
+    color: black;
+    transform: scale(1.5);
+}
+
