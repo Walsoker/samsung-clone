@@ -13,4 +13,4 @@
 - Approfondir mes compétences en mise en page
 
 ## 🔗 Lien du site déployé
-👉 [Voir le projet en ligne](https://tonpseudo.github.io/samsung-clone)
+👉 [Voir le projet en ligne](https://walsoker.github.io/samsung-clone/)
